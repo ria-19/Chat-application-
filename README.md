@@ -68,3 +68,5 @@ Spring WebSocket Chat Application is a real-time, one-on-one chat application bu
 **Contributing**
 
 Contributions to this project are welcome! Please feel free to submit pull requests or issues.
+
+Acknowledgment: https://github.com/ali-bouali/one-to-one-chat-spring-boot-web-socket?tab=readme-ov-file
